@@ -683,6 +683,6 @@ footer{
 }
 @media screen and (max-width: 768px){
     .bottom-bar{
-        font-size: 15px;
+        font-size: 11px;
     }
 }

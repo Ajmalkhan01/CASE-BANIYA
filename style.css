@@ -426,6 +426,9 @@ li{
     align-items: center;
     justify-content: space-around;
     text-align: center;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 10px;
 }
 .trending-item-card img{
     width: 100px;
@@ -437,6 +440,9 @@ li{
 }
 .caption{
     font-weight: 600;
+    overflow-wrap: break-word;
+    word-break: break-word; 
+    white-space: normal;
 }
 .price{
     font-weight: 700;

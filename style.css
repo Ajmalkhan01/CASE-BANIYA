@@ -266,36 +266,36 @@ li{
     }    
 }
 .latest-card-1{
-    background: url('/images/scroll/store-card-2-iPhone.jpeg') no-repeat;
+    background: url('images/scroll/store-card-2-iPhone.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
 }
 .latest-card-2{
-    background: url('/images/scroll/store-card-2-iPad.jpeg') no-repeat;
+    background: url('images/scroll/store-card-2-iPad.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
     color: #fff;
 }
 .latest-card-3{
-    background: url('/images/scroll/store-card-2-watch-se.jpeg') no-repeat;
+    background: url('images/scroll/store-card-2-watch-se.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
     color: #000;
 }
 .latest-card-4{
-    background: url('/images/scroll/store-card-2-watch.jpeg') no-repeat;
+    background: url('images/scroll/store-card-2-watch.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
     color: #fff;
 }
 .latest-card-5{ 
-    background: url('/images/scroll/store-card-2-iPad-air.jpeg') no-repeat;
+    background: url('images/scroll/store-card-2-iPad-air.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
     color: #000;
 }
 .latest-card-6{
-    background: url('/images/scroll/store-card-2-apple-pencil.png') no-repeat;
+    background: url('images/scroll/store-card-2-apple-pencil.png') no-repeat;
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -563,33 +563,33 @@ li{
     text-align: center;
 }
 .offer-1{ 
-    background: url('/images/offers/offer-card-1.png') no-repeat, #fff;
+    background: url('images/offers/offer-card-1.png') no-repeat, #fff;
     background-size: contain;
     background-position: center; 
 }
 .offer-2{
-    background: url('/images/offers/offer-card-2.png') no-repeat, #fff;
+    background: url('images/offers/offer-card-2.png') no-repeat, #fff;
     background-size: contain;
     background-position: center;
 }
 .offer-3{
-    background: url('/images/offers/offer-card-3.png') no-repeat, #fff;
+    background: url('images/offers/offer-card-3.png') no-repeat, #fff;
     background-size: contain;
     background-position: center; 
 }
 .offer-4{
-    background: url('/images/offers/offer-card-4.png') no-repeat, #fff;
+    background: url('images/offers/offer-card-4.png') no-repeat, #fff;
     background-size: contain;
     background-position: center;
 }
 .offer-5{
-    background: url('/images/offers/offer-card-5.png') no-repeat, #fff;
+    background: url('images/offers/offer-card-5.png') no-repeat, #fff;
     background-size: contain;
     background-position: center;
 }  
 @media screen and (max-width: 768px){
     .offer-1{
-        background: url('/images/offers/offer-card-1-mobile-view.png') no-repeat, #fff;
+        background: url('images/offers/offer-card-1-mobile-view.png') no-repeat, #fff;
         background-size: contain;
         background-position: center; 
     }
